@@ -1,5 +1,1 @@
-game link: 
-
-<br>
-
-https://asimongame.netlify.app
+game link: https://asimongame.netlify.app
